@@ -18,4 +18,4 @@ Programa en Python que permite ingresar 25 valores numéricos en una matriz de 5
  24.PNG
 
  ### Captura 3
- 25.png
+25.png
