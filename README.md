@@ -6,7 +6,7 @@
 ![Resultado 1](matriz.PNG)
 
 ### Resultado 2
-ejecución%20del%20programa.PNG
+imagen2.png
 
 ### Resultado 3
-ejecucion%20del%20programa%20(2.png)
+imagen3.png
